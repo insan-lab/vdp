@@ -3,8 +3,9 @@
 ## Scope
 This policy applies to all systems and services hosted under:
 
+```
 *.insan.qzz.io
-
+```
 
 Only assets explicitly in this scope are covered.
 
