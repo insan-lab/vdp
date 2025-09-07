@@ -25,7 +25,7 @@ We currently provide security updates only for active production services.
 ## Reporting a Vulnerability
 If you discover a security vulnerability in InsanLab systems:
 
-- **Email**: security@insan.qzz.io  
+- **Private Vulnerability Reporting via GitHub**: https://github.com/insan-lab/vdp/security/advisories/new  
 - **Preferred format**: clear description, steps to reproduce, and proof-of-concept if possible.  
 - **Acknowledgement**: within **72 hours**.  
 - **Status updates**: at least every **7 days** until resolution.  
